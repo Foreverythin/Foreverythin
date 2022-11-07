@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on some small interesting projects, such as mobile apps.
 - 📫 You can reach me by **Twitter@Pangyu_li**, or send me emails(**pangyuli92@gmail.com**, **mn20pl@leeds.ac.uk**).
 
-[![Foreverythin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foreverythin)](https://github.com/anuraghazra/github-readme-stats)
+[![Foreverythin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foreverythin)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
